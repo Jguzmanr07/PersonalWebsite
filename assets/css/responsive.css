@@ -1,6 +1,6 @@
 /* only small desktops */
 @media (min-width: 992px) and (max-width: 1199px) {
-  #hero-area .contents .head-title {
+  #intro-area .contents .head-title {
     font-size: 40px;
   }
   .services-item .services-content h3 a {
@@ -51,16 +51,16 @@
   .navbar-brand img {
     margin: 5px 0;
   }
-  #hero-area .contents {
+  #intro-area .contents {
     padding: 100px 0px 60px 0px;
   }
-  #hero-area .contents .head-title {
+  #intro-area .contents .head-title {
     font-size: 22px;
   }
-  #hero-area .contents h5 {
+  #intro-area .contents h5 {
     font-size: 32px;
   }
-  #hero-area .contents p {
+  #intro-area .contents p {
     font-size: 20px;
   }
   .services-item {
