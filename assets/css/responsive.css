@@ -80,10 +80,13 @@
   }
 }
 @media only screen and (max-device-width: 1366px) {
-  .intro-section {
+  .cert-section {
     background-attachment: scroll;
   }
   .parallax{
+    background-attachment: scroll;
+  }
+  .intro-area{
     background-attachment: scroll;
   }
 }
