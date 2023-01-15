@@ -82,11 +82,13 @@
 @media only screen and (max-device-width: 1366px) {
   .cert-section {
     background-attachment: scroll;
+    max-height: 200px;
   }
   .parallax{
     background-attachment: scroll;
+    max-height: 200px;
   }
-  .intro-area{
+  .intro-area-bg {
     background-attachment: scroll;
   }
 }
