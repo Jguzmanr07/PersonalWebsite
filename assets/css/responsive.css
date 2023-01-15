@@ -80,10 +80,10 @@
   }
 }
 @media only screen and (max-device-width: 1366px) {
-  .counter-section {
+  .intro-section {
     background-attachment: scroll;
   }
-  .counter-section2 {
+  .parallax{
     background-attachment: scroll;
   }
 }
