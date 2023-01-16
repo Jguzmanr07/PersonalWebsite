@@ -783,9 +783,11 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 .footer-area .footer-text p a {
+  color: #ffffff;
+}
+.footer-area .footer-text p a:hover {
   color: #00b4d9;
 }
-
 .footer-area .footer-text .nav-inline .nav-link {
   padding: 11px 7px;
   color: #888;
