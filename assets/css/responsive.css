@@ -78,15 +78,6 @@
   .footer-right-area {
     margin-top: 20px;
   }
-  .cert-container {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
-    height: 400px;
-  }
-  .cert-container img {
-    max-width: 100px;
-  }
 }
 @media only screen and (max-device-width: 1366px) {
   .cert-section {

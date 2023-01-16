@@ -357,10 +357,6 @@ a.back-to-top:hover, a.back-to-top:focus {
   height: 400px;
 }
 
-.cert-container img {
-  max-width: 200px;
-}
-
 .flex-item {
   margin: auto;
 }
