@@ -347,6 +347,18 @@ a.back-to-top:hover, a.back-to-top:focus {
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 350px; 
+  
+}
+
+.cert-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  height: 400px;
+}
+
+.flex-item {
+  margin: auto;
 }
 
 .parallax {
