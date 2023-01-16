@@ -356,7 +356,9 @@ a.back-to-top:hover, a.back-to-top:focus {
   justify-content: space-between;
   height: 400px;
 }
-
+.cert-container img {
+  max-width: 200px;
+}
 .flex-item {
   margin: auto;
 }
