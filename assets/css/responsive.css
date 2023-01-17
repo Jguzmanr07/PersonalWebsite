@@ -63,9 +63,15 @@
   #intro-area .contents p {
     font-size: 20px;
   }
-  .services-item {
-    margin-bottom: 20px;
-  }
+  .cert-container {
+      height: auto;
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+  .cert-section {
+      max-height:none !important;
+    }
+
   .timeline li .line-title {
     line-height: 26px;
   }
