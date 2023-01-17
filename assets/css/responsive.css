@@ -71,7 +71,9 @@
   .cert-section {
       max-height:none !important;
     }
-
+  .cert-container img{
+      padding: 5px 150px;
+    }
   .timeline li .line-title {
     line-height: 26px;
   }
