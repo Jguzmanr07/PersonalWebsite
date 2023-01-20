@@ -463,6 +463,26 @@ a.back-to-top:hover, a.back-to-top:focus {
   text-align: center;
 }
 
+.timeline .btn{
+  font-size: 15px;
+  font-weight: 700;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #676767;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.timeline .btn:hover{
+  color: #00b4d9;
+}
+
+.card-body a{
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
 .navbar-brand {
   position: relative;
   padding: 0px;
