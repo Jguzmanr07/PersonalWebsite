@@ -352,24 +352,27 @@ a.back-to-top:hover, a.back-to-top:focus {
   min-height: 350px; 
   
 }
-
 .cert-section .row {
   align-content: center;
   justify-content: center;
   align-items: center;
   }
-
 .cert-container {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
-  height: 400px;
+  min-height: 400px;
 }
-
+.cert-section {
+  max-height:none !important;
+}
+.cert-container img{
+  aspect-ratio: 3/3;
+  object-fit: contain;
+}
 .flex-item {
   margin: auto;
 }
-
 .parallax {
   background: url(../img/bg-2.jpg);
   background-attachment: fixed;
