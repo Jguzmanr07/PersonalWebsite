@@ -350,6 +350,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 350px; 
+  max-height:none !important;
+  padding: 0px 50px;
   
 }
 .cert-section .row {
@@ -362,10 +364,9 @@ a.back-to-top:hover, a.back-to-top:focus {
   flex-flow: row wrap;
   justify-content: center;
   min-height: 400px;
+  
 }
-.cert-section {
-  max-height:none !important;
-}
+
 .cert-container img{
   aspect-ratio: 3/3;
   object-fit: contain;
