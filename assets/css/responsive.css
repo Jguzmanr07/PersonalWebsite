@@ -49,11 +49,12 @@
       height: auto;
       padding-top: 20px;
       padding-bottom: 20px;
-      padding-left: 150px;
-      padding-right: 150px;
+      padding-left: 120px;
+      padding-right: 120px;
     }
   .cert-section {
       max-height:none !important;
+      padding: 0px 5px;
     }
 
   .timeline li .line-title {
