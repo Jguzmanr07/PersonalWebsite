@@ -302,6 +302,10 @@ a.back-to-top:hover, a.back-to-top:focus {
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
 }
 
+#about .row{
+  justify-content: center
+}
+
 .profile-wrapper {
   padding: 45px 0;
 }
